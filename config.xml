@@ -12,8 +12,6 @@
     <description>
         Las mejores promociones de Lands in love llegan a tu smartphone. 
     </description>
-    
-    <preference name="phonegap-version"           value="2.0.0" /> 
 
     <author href="https://www.suwebcr.com" email="dj.steven@hotmail.com">
         Steven Rodriguez
