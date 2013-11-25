@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.landsinlove"
+        versionCode="31" 
+        version   = "2.1.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Lands in love Promos</name>
+
+    <description>
+        Las mejores promociones de Lands in love llegan a tu smartphone. 
+    </description>
+
+    <author href="https://www.suwebcr.com" email="dj.steven@hotmail.com">
+        Steven Rodriguez
+    </author>
+    
+  
+</widget>
